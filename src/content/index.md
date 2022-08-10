@@ -2,8 +2,8 @@
 layout: simple.njk
 bodyClass: home
 seo:
-  title: Metalsmith Netlify Starter
-  description: Metalsmith starter with Netlify CMS integration
+  title: Metalsmith Netlify Starter1
+  description: Metalsmith starter with Netlify CMS integration1
   socialImage: /assets/images/metalsmith-starter-social.png
   canonicalOverwrite: ""
 ---
