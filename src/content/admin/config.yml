@@ -1,0 +1,6 @@
+backend:
+  name: git-gateway
+  repo: danielbeeke/metalsmith-netlify-starter
+  base_url: https://github.danielbeeke.nl
+  branch: main
+  site_domain: https://steady-elf-b6eff1.netlify.app
