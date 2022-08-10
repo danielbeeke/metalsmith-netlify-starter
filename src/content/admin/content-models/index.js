@@ -7,7 +7,7 @@ const { CMS, initCMS: init } = window;
 init({
   config: {
     backend: {
-      name: "github",
+      name: "git-gateway",
       branch: "main",
       repo: "danielbeeke/metalsmith-netlify-starter",
       site_domain: "https://steady-elf-b6eff1.netlify.app",
